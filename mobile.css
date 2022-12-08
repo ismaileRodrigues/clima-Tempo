@@ -1,0 +1,21 @@
+
+    img {
+      min-width: 100px;
+      background-image: radial-gradient(#9c9c9c, #f7f7f7 70%);
+      width: 20%;
+    }
+    .content {
+      font-size: 0.6em;
+      margin-top: 10px;
+      justify-content: space-between;
+      word-break: break-word;
+    }
+
+
+    input {
+        padding: 5px;
+        outline: none;
+        border-radius: 5px;
+        font-size: 15px;
+        width: 100%;
+      }
